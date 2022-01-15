@@ -37,8 +37,7 @@ async def start_(client: Client, message: Message):
                         "🤔sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​🤔", url="https://t.me/DevilsHeavenMF"
                     )]
             ]
-        ),
-     disable_web_page_preview=True
+       ),
     )
     
 
