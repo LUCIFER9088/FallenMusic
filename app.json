@@ -28,7 +28,7 @@
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
-      "required": true
+      "required": true,
       "value": "1356469075"
     },
     "DURATION_LIMIT": {
